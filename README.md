@@ -8,3 +8,5 @@ To get started with python (on windows) and try the demo code for exchange apis:
 4) Make it easy to directly open ipynb files with this command: 
     - python -m nbopen.install_win 
 5) Finally, dobble click the the cwzdemo.ipynb, which should now open in a jupyter window in your browser
+
+link to the presentaton at 17.10.2018: https://www.dropbox.com/s/zt6nghx5uv42a0u
